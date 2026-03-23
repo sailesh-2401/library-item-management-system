@@ -34,3 +34,12 @@ javac com/library/app/LibraryApp.java
 
 ->Run the application:
 java com.library.app.LibraryApp
+
+*Another way to run*
+->Git Codespaces:
+Step 1: Switch the branch from "main" to "master". master branch contains the code which generates the output, main branch contains only the README file.
+Step 2: click on Code button, Then select codespaces.
+Step 3: Navigate to "src" file in Library Item Management folder.
+Step 4: Then select the file LibraryApp.java.
+Step 5: Ensure you installed the necessary extension for the java debugging, Then click on f5 button in keyboard to run the code.
+Step 6: Results will be displayed in the terminal.
