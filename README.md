@@ -25,15 +25,12 @@ Data is protected using appropriate access modifiers, ensuring that internal sta
 
 *How to Run*
 ->Clone the repository:
-Bash
 git clone https://github.com/your-username/library-item-management-system.git
 
 Navigate to the src directory.
 
 ->Compile the files:
-Bash
 javac com/library/app/LibraryApp.java
 
 ->Run the application:
-Bash
 java com.library.app.LibraryApp
