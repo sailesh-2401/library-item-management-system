@@ -25,7 +25,7 @@ Data is protected using appropriate access modifiers, ensuring that internal sta
 
 *How to Run*
 ->Clone the repository:
-git clone https://github.com/your-username/library-item-management-system.git
+git clone https://github.com/sailesh-2401/library-item-management-system.git
 
 Navigate to the src directory.
 
